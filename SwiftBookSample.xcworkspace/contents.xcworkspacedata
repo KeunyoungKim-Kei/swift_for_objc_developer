@@ -2,6 +2,17 @@
 <Workspace
    version = "1.0">
    <Group
+      location = "group:Chapter5"
+      name = "Chapter5">
+      <Group
+         location = "group:5-1"
+         name = "5-1">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
       location = "group:Chapter4"
       name = "Chapter4">
       <Group
