@@ -2,6 +2,31 @@
 <Workspace
    version = "1.0">
    <Group
+      location = "group:Chapter6"
+      name = "Chapter6">
+      <Group
+         location = "group:6-3"
+         name = "6-3">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:6-2"
+         name = "6-2">
+         <FileRef
+            location = "group:ObjCStringInterpolation/ObjCStringInterpolation.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:6-1"
+         name = "6-1">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
       location = "group:Chapter5"
       name = "Chapter5">
       <Group
