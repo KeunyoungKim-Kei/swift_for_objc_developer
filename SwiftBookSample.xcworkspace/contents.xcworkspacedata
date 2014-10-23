@@ -2,6 +2,141 @@
 <Workspace
    version = "1.0">
    <Group
+      location = "group:Chapter16"
+      name = "Chapter16">
+      <Group
+         location = "group:16-14"
+         name = "16-14">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:16-13"
+         name = "16-13">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:16-12"
+         name = "16-12">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:16-11"
+         name = "16-11">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:16-10"
+         name = "16-10">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:16-9"
+         name = "16-9">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:16-8"
+         name = "16-8">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:16-7"
+         name = "16-7">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:16-6"
+         name = "16-6">
+         <Group
+            location = "group:ObjC"
+            name = "ObjC">
+            <FileRef
+               location = "group:ObjCEnumDuplicatedRawValue/ObjCEnumDuplicatedRawValue.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Swift"
+            name = "Swift">
+            <FileRef
+               location = "group:Sample.playground">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:16-5"
+         name = "16-5">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:16-4"
+         name = "16-4">
+         <Group
+            location = "group:ObjC"
+            name = "ObjC">
+            <FileRef
+               location = "group:ObjCUseDaysEnum/ObjCUseDaysEnum.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Swift"
+            name = "Swift">
+            <FileRef
+               location = "group:Sample.playground">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:16-3"
+         name = "16-3">
+         <Group
+            location = "group:ObjC"
+            name = "ObjC">
+            <FileRef
+               location = "group:ObjCDaysEnum/ObjCDaysEnum.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Swift"
+            name = "Swift">
+            <FileRef
+               location = "group:Sample.playground">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:16-2"
+         name = "16-2">
+         <FileRef
+            location = "group:ObjCNSEnumMacro/ObjCNSEnumMacro.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:16-1"
+         name = "16-1">
+         <FileRef
+            location = "group:ObjCCStyleEnum/ObjCCStyleEnum.xcodeproj">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
       location = "group:Chapter15"
       name = "Chapter15">
       <Group
