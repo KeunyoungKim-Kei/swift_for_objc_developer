@@ -2,6 +2,154 @@
 <Workspace
    version = "1.0">
    <Group
+      location = "group:Chapter13"
+      name = "Chapter13">
+      <Group
+         location = "group:13-21"
+         name = "13-21">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:13-20"
+         name = "13-20">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:13-19"
+         name = "13-19">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:13-18"
+         name = "13-18">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:13-17"
+         name = "13-17">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:13-16"
+         name = "13-16">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:13-15"
+         name = "13-15">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:13-14"
+         name = "13-14">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:13-13"
+         name = "13-13">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:13-12"
+         name = "13-12">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:13-11"
+         name = "13-11">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:13-10 ObjC"
+         name = "13-10 ObjC">
+         <FileRef
+            location = "group:ObjCSwitchWithoutBreak/ObjCSwitchWithoutBreak.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:13-9 ObjC"
+         name = "13-9 ObjC">
+         <FileRef
+            location = "group:ObjCSwitch/ObjCSwitch.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:13-8"
+         name = "13-8">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:13-5"
+         name = "13-5">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:13-4"
+         name = "13-4">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:13-3"
+         name = "13-3">
+         <Group
+            location = "group:ObjC"
+            name = "ObjC">
+            <FileRef
+               location = "group:ObjCForLoop/ObjCForLoop.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Swift"
+            name = "Swift">
+            <FileRef
+               location = "group:Sample.playground">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:13-2"
+         name = "13-2">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:13-1"
+         name = "13-1">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
       location = "group:Chapter12"
       name = "Chapter12">
       <Group
