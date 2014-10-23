@@ -1,0 +1,21 @@
+//
+//  main.m
+//  ObjCDictionaryDeclaration
+//
+//  Created by Keun young Kim on 2014. 10. 23..
+//  Copyright (c) 2014년 Keun young Kim. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+int main(int argc, char * argv[]) {
+    NSDictionary* countryCodes = @{@"KR":@"Korea, Republic of", @"US":@"United States", @"FR":@"France"};
+    NSDictionary* grade = @{@"Korean":@(90), @"English":@(95), @"Math":@(80)};
+    NSDictionary* emptyDictionary = [NSDictionary dictionary];
+    NSDictionary* anotherEmptyDictionary = [NSDictionary dictionary];
+    
+    NSLog(@"%@", countryCodes);
+    NSLog(@"%@", grade);
+    NSLog(@"%@", emptyDictionary);
+    NSLog(@"%@", anotherEmptyDictionary);
+}

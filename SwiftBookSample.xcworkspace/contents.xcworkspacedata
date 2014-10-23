@@ -2,6 +2,369 @@
 <Workspace
    version = "1.0">
    <Group
+      location = "group:Chapter12"
+      name = "Chapter12">
+      <Group
+         location = "group:12-23"
+         name = "12-23">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:12-22"
+         name = "12-22">
+         <Group
+            location = "group:ObjC"
+            name = "ObjC">
+            <FileRef
+               location = "group:ObjCDictionaryValueEnumeration/ObjCDictionaryValueEnumeration.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Swift"
+            name = "Swift">
+            <FileRef
+               location = "group:Sample.playground">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:12-21"
+         name = "12-21">
+         <Group
+            location = "group:ObjC"
+            name = "ObjC">
+            <FileRef
+               location = "group:ObjCDictionaryKeyEnumeration/ObjCDictionaryKeyEnumeration.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Swift"
+            name = "Swift">
+            <FileRef
+               location = "group:Sample.playground">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:12-20"
+         name = "12-20">
+         <Group
+            location = "group:ObjC"
+            name = "ObjC">
+            <FileRef
+               location = "group:ObjCDictionaryEnumeration/ObjCDictionaryEnumeration.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Swift"
+            name = "Swift">
+            <FileRef
+               location = "group:Sample.playground">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:12-19"
+         name = "12-19">
+         <Group
+            location = "group:ObjC"
+            name = "ObjC">
+            <FileRef
+               location = "group:ObjCDictionaryRemoveAll/ObjCDictionaryRemoveAll.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Swift"
+            name = "Swift">
+            <FileRef
+               location = "group:Sample.playground">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:12-18"
+         name = "12-18">
+         <Group
+            location = "group:ObjC"
+            name = "ObjC">
+            <FileRef
+               location = "group:ObjCDictionaryRemoveObj/ObjCDictionaryRemoveObj.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Swift"
+            name = "Swift">
+            <FileRef
+               location = "group:Sample.playground">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:12-17"
+         name = "12-17">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:12-16"
+         name = "12-16">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:12-15"
+         name = "12-15">
+         <Group
+            location = "group:ObjC"
+            name = "ObjC">
+            <FileRef
+               location = "group:ObjCDictionaryInsertAndUpdate/ObjCDictionaryInsertAndUpdate.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Swift"
+            name = "Swift">
+            <FileRef
+               location = "group:Sample.playground">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:12-14"
+         name = "12-14">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:12-13"
+         name = "12-13">
+         <Group
+            location = "group:ObjC"
+            name = "ObjC">
+            <FileRef
+               location = "group:ObjCDictionaryCountOfElem/ObjCDictionaryCountOfElem.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Swift"
+            name = "Swift">
+            <FileRef
+               location = "group:Sample.playground">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:12-12"
+         name = "12-12">
+         <Group
+            location = "group:ObjC"
+            name = "ObjC">
+            <FileRef
+               location = "group:ObjCDictionaryDeclaration/ObjCDictionaryDeclaration.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Swift"
+            name = "Swift">
+            <FileRef
+               location = "group:Sample.playground">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:12-11"
+         name = "12-11">
+         <Group
+            location = "group:ObjC"
+            name = "ObjC">
+            <FileRef
+               location = "group:ObjCArrayEnumerationWithIndex/ObjCArrayEnumerationWithIndex.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Swift"
+            name = "Swift">
+            <FileRef
+               location = "group:Sample.playground">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:12-10"
+         name = "12-10">
+         <Group
+            location = "group:ObjC"
+            name = "ObjC">
+            <FileRef
+               location = "group:ObjCArrayEnumeration/ObjCArrayEnumeration.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Swift"
+            name = "Swift">
+            <FileRef
+               location = "group:Sample.playground">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:12-9"
+         name = "12-9">
+         <Group
+            location = "group:ObjC"
+            name = "ObjC">
+            <FileRef
+               location = "group:ObjCArrayRemoveElem/ObjCArrayRemoveElem.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Swift"
+            name = "Swift">
+            <FileRef
+               location = "group:Sample.playground">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:12-8"
+         name = "12-8">
+         <Group
+            location = "group:ObjC"
+            name = "ObjC">
+            <FileRef
+               location = "group:ObjCArrayReplaceViaRange/ObjCArrayReplaceViaRange.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Swift"
+            name = "Swift">
+            <FileRef
+               location = "group:Sample.playground">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:12-7"
+         name = "12-7">
+         <Group
+            location = "group:ObjC"
+            name = "ObjC">
+            <FileRef
+               location = "group:ObjCArraySubscriptSyntax/ObjCArraySubscriptSyntax.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Swift"
+            name = "Swift">
+            <FileRef
+               location = "group:Sample.playground">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:12-6"
+         name = "12-6">
+         <Group
+            location = "group:ObjC"
+            name = "ObjC">
+            <FileRef
+               location = "group:ObjCArrayElementInsertion/ObjCArrayElementInsertion.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Swift"
+            name = "Swift">
+            <FileRef
+               location = "group:Sample.playground">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:12-5"
+         name = "12-5">
+         <Group
+            location = "group:ObjC"
+            name = "ObjC">
+            <FileRef
+               location = "group:ObjCArrayCountOfElem/ObjCArrayCountOfElem.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Swift"
+            name = "Swift">
+            <FileRef
+               location = "group:Sample.playground">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:12-4"
+         name = "12-4">
+         <Group
+            location = "group:ObjC"
+            name = "ObjC">
+            <FileRef
+               location = "group:ObjCArrayInitialCapacity/ObjCArrayInitialCapacity.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Swift"
+            name = "Swift">
+            <FileRef
+               location = "group:Sample.playground">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:12-3"
+         name = "12-3">
+         <Group
+            location = "group:ObjC"
+            name = "ObjC">
+            <FileRef
+               location = "group:ObjCArrayCombining/ObjCArrayCombining.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Swift"
+            name = "Swift">
+            <FileRef
+               location = "group:Sample.playground">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:12-2"
+         name = "12-2">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:12-1"
+         name = "12-1">
+         <Group
+            location = "group:ObjC"
+            name = "ObjC">
+            <FileRef
+               location = "group:ObjCArrayDeclaration/ObjCArrayDeclaration.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Swift"
+            name = "Swift">
+            <FileRef
+               location = "group:Sample.playground">
+            </FileRef>
+         </Group>
+      </Group>
+   </Group>
+   <Group
       location = "group:Chapter11"
       name = "Chapter11">
       <Group
