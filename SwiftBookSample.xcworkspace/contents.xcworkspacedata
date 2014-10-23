@@ -2,6 +2,95 @@
 <Workspace
    version = "1.0">
    <Group
+      location = "group:Chapter15"
+      name = "Chapter15">
+      <Group
+         location = "group:15-9"
+         name = "15-9">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:15-8"
+         name = "15-8">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:15-7"
+         name = "15-7">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:15-6"
+         name = "15-6">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:15-5"
+         name = "15-5">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:15-4"
+         name = "15-4">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:15-3"
+         name = "15-3">
+         <Group
+            location = "group:ObjC"
+            name = "ObjC">
+            <FileRef
+               location = "group:ObjCSortArrayUsingComparator/ObjCSortArrayUsingComparator.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Swift"
+            name = "Swift">
+            <FileRef
+               location = "group:Sample.playground">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:15-2"
+         name = "15-2">
+         <Group
+            location = "group:ObjC"
+            name = "ObjC">
+            <FileRef
+               location = "group:ObjCSortArray/ObjCSortArray.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Swift"
+            name = "Swift">
+            <FileRef
+               location = "group:Sample.playground">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:15-1"
+         name = "15-1">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
       location = "group:Chapter14"
       name = "Chapter14">
       <Group
