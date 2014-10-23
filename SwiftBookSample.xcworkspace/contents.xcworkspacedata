@@ -1,7 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
-   <FileRef
-      location = "group:Chapter4/Chapter4.xcodeproj">
-   </FileRef>
+   <Group
+      location = "group:Chapter4"
+      name = "Chapter4">
+      <Group
+         location = "group:4-8"
+         name = "4-8">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:4-7 Objc"
+         name = "4-7 ObjC">
+         <FileRef
+            location = "group:ObjCUninitializedVariables/ObjCUninitializedVariables.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:4-6"
+         name = "4-6 ObjC">
+         <FileRef
+            location = "group:ObjCConstants/ObjCConstants.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:4-5"
+         name = "4-5">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:4-4"
+         name = "4-4 ObjC">
+         <FileRef
+            location = "group:ObjCVariables/ObjCVariables.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:4-1"
+         name = "4-1">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:4-2"
+         name = "4-2">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:4-3"
+         name = "4-3">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+   </Group>
 </Workspace>
