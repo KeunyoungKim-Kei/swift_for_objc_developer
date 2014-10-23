@@ -2,6 +2,81 @@
 <Workspace
    version = "1.0">
    <Group
+      location = "group:Chapter7"
+      name = "Chapter7">
+      <Group
+         location = "group:7-7"
+         name = "7-7">
+         <Group
+            location = "group:ObjC"
+            name = "ObjC">
+            <FileRef
+               location = "group:ObjCTypeDef/ObjCTypeDef.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Swift"
+            name = "Swift">
+            <FileRef
+               location = "group:Sample.playground">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:7-6"
+         name = "7-6">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:7-5"
+         name = "7-5">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:7-4"
+         name = "7-4">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:7-3"
+         name = "7-3">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:7-2"
+         name = "7-2">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:7-1"
+         name = "7-1">
+         <Group
+            location = "group:ObjC"
+            name = "ObjC">
+            <FileRef
+               location = "group:ObjCIntegerRange/ObjCIntegerRange.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Swift"
+            name = "Swift">
+            <FileRef
+               location = "group:Sample.playground">
+            </FileRef>
+         </Group>
+      </Group>
+   </Group>
+   <Group
       location = "group:Chapter6"
       name = "Chapter6">
       <Group
