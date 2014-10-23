@@ -2,6 +2,45 @@
 <Workspace
    version = "1.0">
    <Group
+      location = "group:Chapter9"
+      name = "Chapter9">
+      <Group
+         location = "group:9-6"
+         name = "9-6">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:9-5"
+         name = "9-5">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:9-3"
+         name = "9-3">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:9-2"
+         name = "9-2">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:9-1"
+         name = "9-1">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
       location = "group:Chapter8"
       name = "Chapter8">
       <Group
