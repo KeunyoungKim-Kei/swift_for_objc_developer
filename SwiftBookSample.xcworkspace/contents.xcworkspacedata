@@ -2,6 +2,99 @@
 <Workspace
    version = "1.0">
    <Group
+      location = "group:Chapter8"
+      name = "Chapter8">
+      <Group
+         location = "group:8-8"
+         name = "8-8">
+         <Group
+            location = "group:ObjC"
+            name = "ObjC">
+            <FileRef
+               location = "group:ObjCForLoopReverse/ObjCForLoopReverse.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Swift"
+            name = "Swift">
+            <FileRef
+               location = "group:Sample.playground">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:8-7"
+         name = "8-7">
+         <Group
+            location = "group:ObjC"
+            name = "ObjC">
+            <FileRef
+               location = "group:ObjCForLoop2/ObjCForLoop2.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Swift"
+            name = "Swift">
+            <FileRef
+               location = "group:Sample.playground">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:8-6"
+         name = "8-6">
+         <Group
+            location = "group:ObjC"
+            name = "ObjC">
+            <FileRef
+               location = "group:ObjCForLoop1/ObjCForLoop1.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Swift"
+            name = "Swift">
+            <FileRef
+               location = "group:Sample.playground">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:8-5"
+         name = "8-5">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:8-4"
+         name = "8-4">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:8-3"
+         name = "8-3">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:8-2"
+         name = "8-2">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:8-1 ObjC"
+         name = "8-1 ObjC">
+         <FileRef
+            location = "group:ObjCLogicalCompareProblem/ObjCLogicalCompareProblem.xcodeproj">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
       location = "group:Chapter7"
       name = "Chapter7">
       <Group

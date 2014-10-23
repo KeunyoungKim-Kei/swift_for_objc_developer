@@ -1,0 +1,1 @@
+var result = 8 % 2.5
