@@ -2,6 +2,122 @@
 <Workspace
    version = "1.0">
    <Group
+      location = "group:Chapter19"
+      name = "Chapter19">
+      <Group
+         location = "group:19-16"
+         name = "19-16">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:19-15"
+         name = "19-15">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:19-14"
+         name = "19-14">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:19-13"
+         name = "19-13">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:19-12"
+         name = "19-12">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:19-11"
+         name = "19-11">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:19-10"
+         name = "19-10">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:19-9"
+         name = "19-9">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:19-8"
+         name = "19-8">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:19-7 ObjC"
+         name = "19-7 ObjC">
+         <FileRef
+            location = "group:ObjCClassMembership/ObjCClassMembership.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:19-6"
+         name = "19-6">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:19-5"
+         name = "19-5">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:19-4"
+         name = "19-4">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:19-3"
+         name = "19-3">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:19-2"
+         name = "19-2">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:19-1 ObjC"
+         name = "19-1 ObjC">
+         <FileRef
+            location = "group:ObjCTypeCasting/ObjCTypeCasting.xcodeproj">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
       location = "group:Chapter18"
       name = "Chapter18">
       <Group
