@@ -2,6 +2,317 @@
 <Workspace
    version = "1.0">
    <Group
+      location = "group:Chapter21"
+      name = "Chapter21">
+      <Group
+         location = "group:21-43"
+         name = "21-43">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-42"
+         name = "21-42">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-41"
+         name = "21-41">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-40"
+         name = "21-40">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-39"
+         name = "21-39">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-38"
+         name = "21-38">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-37"
+         name = "21-37">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-36"
+         name = "21-36">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-35"
+         name = "21-35">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-34"
+         name = "21-34">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-33"
+         name = "21-33">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-32"
+         name = "21-32">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-31"
+         name = "21-31">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-30"
+         name = "21-30">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-29"
+         name = "21-29">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-28"
+         name = "21-28">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-27"
+         name = "21-27">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-26 ObjC"
+         name = "21-26 ObjC">
+         <FileRef
+            location = "group:ObjCOverrrideIsEqual/ObjCOverrrideIsEqual.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-25"
+         name = "21-25 ObjC">
+         <FileRef
+            location = "group:ObjCIsEqualMethod/ObjCIsEqualMethod.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-24"
+         name = "21-24">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-23"
+         name = "21-23">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-22"
+         name = "21-22">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-21"
+         name = "21-21">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+         <FileRef
+            location = "group:SwiftPrintableProtocolAndStruct/SwiftPrintableProtocolAndStruct.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-20"
+         name = "21-20">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+         <FileRef
+            location = "group:SwiftPrintableProtocol/SwiftPrintableProtocol.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-19"
+         name = "21-19">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-18"
+         name = "21-18">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-17"
+         name = "21-17">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-16 ObjC"
+         name = "21-16 ObjC">
+         <FileRef
+            location = "group:ObjCOverrideDescriptionMethod/ObjCOverrideDescriptionMethod.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-15 ObjC"
+         name = "21-15 ObjC">
+         <FileRef
+            location = "group:ObjCLogInstanceProperty/ObjCLogInstanceProperty.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-14 ObjC"
+         name = "21-14 ObjC">
+         <FileRef
+            location = "group:ObjCNSLog/ObjCNSLog.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-13"
+         name = "21-13">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-12"
+         name = "21-12">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-11"
+         name = "21-11">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-10"
+         name = "21-10">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-9"
+         name = "21-9">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-8"
+         name = "21-8">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-7"
+         name = "21-7">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-6"
+         name = "21-6">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-5"
+         name = "21-5">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-4"
+         name = "21-4">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-3"
+         name = "21-3">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-2"
+         name = "21-2">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:21-1 ObjC"
+         name = "21-1 ObjC">
+         <FileRef
+            location = "group:ObjCProtocol/ObjCProtocol.xcodeproj">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
       location = "group:Chapter20"
       name = "Chapter20">
       <Group
