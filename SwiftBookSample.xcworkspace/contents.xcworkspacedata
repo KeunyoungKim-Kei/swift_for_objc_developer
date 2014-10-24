@@ -2,6 +2,59 @@
 <Workspace
    version = "1.0">
    <Group
+      location = "group:Chapter20"
+      name = "Chapter20">
+      <Group
+         location = "group:20-7"
+         name = "20-7">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:20-6"
+         name = "20-6">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:20-5"
+         name = "20-5">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:20-4"
+         name = "20-4">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:20-3"
+         name = "20-3">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:20-2 ObjC"
+         name = "20-2 ObjC">
+         <FileRef
+            location = "group:ObjCClassExtension/ObjCClassExtension.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:20-1"
+         name = "20-1 ObjC">
+         <FileRef
+            location = "group:ObjCNSDateCategory/ObjCNSDateCategory.xcodeproj">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
       location = "group:Chapter19"
       name = "Chapter19">
       <Group
