@@ -2,6 +2,547 @@
 <Workspace
    version = "1.0">
    <Group
+      location = "group:Chapter17"
+      name = "Chapter17">
+      <Group
+         location = "group:17-73"
+         name = "17-73">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-72"
+         name = "17-72">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-71"
+         name = "17-71">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-70"
+         name = "17-70">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-69"
+         name = "17-69">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-68"
+         name = "17-68">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-67"
+         name = "17-67">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-66"
+         name = "17-66">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-65"
+         name = "17-65">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-64"
+         name = "17-64">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-63"
+         name = "17-63">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-62"
+         name = "17-62">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-61"
+         name = "17-61 ObjC">
+         <FileRef
+            location = "group:ObjCUseCustomSubscript/ObjCUseCustomSubscript.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-60"
+         name = "17-60 ObjC">
+         <FileRef
+            location = "group:ObjCSubscriptImplement/ObjCSubscriptImplement.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-59"
+         name = "17-59">
+         <Group
+            location = "group:ObjC"
+            name = "ObjC">
+            <FileRef
+               location = "group:ObjCSubscriptSyntax/ObjCSubscriptSyntax.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Swift"
+            name = "Swift">
+            <FileRef
+               location = "group:Sample.playground">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:17-58"
+         name = "17-58">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-57"
+         name = "17-57">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-56 ObjC"
+         name = "17-56 ObjC">
+         <FileRef
+            location = "group:ObjCCorrectMethodDeclaration/ObjCCorrectMethodDeclaration.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-55 ObjC"
+         name = "17-55 ObjC">
+         <FileRef
+            location = "group:ObjCBadMethodDeclaration/ObjCBadMethodDeclaration.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-54 ObjC"
+         name = "17-54 ObjC">
+         <FileRef
+            location = "group:ObjCClassMethod/ObjCClassMethod.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-53"
+         name = "17-53">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-52"
+         name = "17-52">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-51"
+         name = "17-51">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-50"
+         name = "17-50">
+         <Group
+            location = "group:ObjC"
+            name = "ObjC">
+            <FileRef
+               location = "group:ObjCInsetRect/ObjCInsetRect.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Swift"
+            name = "Swift">
+            <FileRef
+               location = "group:Sample.playground">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:17-49"
+         name = "17-49">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-48"
+         name = "17-48 ObjC">
+         <FileRef
+            location = "group:ObjCUseEmployeeClass/ObjCUseEmployeeClass.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-47"
+         name = "17-47 ObjC">
+         <FileRef
+            location = "group:ObjCEmployeeClass/ObjCEmployeeClass.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-46"
+         name = "17-46">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-45"
+         name = "17-45">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-44"
+         name = "17-44">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-43"
+         name = "17-43">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-42"
+         name = "17-42">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-41"
+         name = "17-41">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-40"
+         name = "17-40">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-39"
+         name = "17-39">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-38"
+         name = "17-38">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-37"
+         name = "17-37">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-36"
+         name = "17-36">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-35"
+         name = "17-35">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-34"
+         name = "17-34">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-33"
+         name = "17-33">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-32"
+         name = "17-32">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-31"
+         name = "17-31">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-30"
+         name = "17-30">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-29"
+         name = "17-29">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-28"
+         name = "17-28">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-27"
+         name = "17-27 ObjC">
+         <FileRef
+            location = "group:ObjCClassInitializerPattern/ObjCClassInitializerPattern.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-26"
+         name = "17-26">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-25"
+         name = "17-25">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-24"
+         name = "17-24">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-23"
+         name = "17-23">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-22"
+         name = "17-22">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-21"
+         name = "17-21">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-20"
+         name = "17-20">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-19"
+         name = "17-19">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-18"
+         name = "17-18">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-17"
+         name = "17-17">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-16 ObjC"
+         name = "17-16 ObjC">
+         <FileRef
+            location = "group:ObjCLazyLoadingProperty/ObjCLazyLoadingProperty.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-15"
+         name = "17-15">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-14"
+         name = "17-14">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-13"
+         name = "17-13">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-12 ObjC"
+         name = "17-12 ObjC">
+         <FileRef
+            location = "group:ObjCPersonClassDeclaration/ObjCPersonClassDeclaration.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-11"
+         name = "17-11">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-10"
+         name = "17-10">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-9"
+         name = "17-9">
+         <Group
+            location = "group:Swift"
+            name = "Swift">
+            <FileRef
+               location = "group:Sample.playground">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:ObjC"
+            name = "ObjC">
+            <FileRef
+               location = "group:ObjCClassAndStructInitializeSyntax/ObjCClassAndStructInitializeSyntax.xcodeproj">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:17-8"
+         name = "17-8">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-7"
+         name = "17-7">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-6"
+         name = "17-6 ObjC">
+         <FileRef
+            location = "group:ObjCStruct/ObjCStruct.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-5"
+         name = "17-5">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-3, 17-4 ObjC"
+         name = "17-3, 17-4 ObjC">
+         <FileRef
+            location = "group:ObjCClassDeclaration/ObjCClassDeclaration.xcodeproj">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-2"
+         name = "17-2">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:17-1"
+         name = "17-1">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
       location = "group:Chapter16"
       name = "Chapter16">
       <Group
