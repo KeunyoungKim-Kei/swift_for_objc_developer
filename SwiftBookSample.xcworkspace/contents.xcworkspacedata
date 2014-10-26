@@ -2,6 +2,185 @@
 <Workspace
    version = "1.0">
    <Group
+      location = "group:Chapter23"
+      name = "Chapter23">
+      <Group
+         location = "group:23-25"
+         name = "23-25">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:23-24"
+         name = "23-24">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:23-23"
+         name = "23-23">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:23-22"
+         name = "23-22">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:23-21"
+         name = "23-21">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:23-20"
+         name = "23-20">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:23-19"
+         name = "23-19">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:23-18"
+         name = "23-18">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:23-17"
+         name = "23-17">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:23-16"
+         name = "23-16">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:23-15"
+         name = "23-15">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:23-14"
+         name = "23-14">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:23-13"
+         name = "23-13">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:23-12"
+         name = "23-12">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:23-11"
+         name = "23-11">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:23-10"
+         name = "23-10">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:23-9"
+         name = "23-9">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:23-8"
+         name = "23-8">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:23-7"
+         name = "23-7">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:23-6"
+         name = "23-6">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:23-5"
+         name = "23-5">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:23-4"
+         name = "23-4">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:23-3"
+         name = "23-3">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:23-2"
+         name = "23-2">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:23-1"
+         name = "23-1">
+         <FileRef
+            location = "group:Sample.playground">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
       location = "group:Chapter22"
       name = "Chapter22">
       <Group
